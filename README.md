@@ -37,3 +37,4 @@ Wanneer je schade oploopt, nemen je levenspunten af. Blijf je echter een tijdje 
 
 Daarnaast kun je als speler teleporteren door de map. Dit is een bewuste keuze, omdat bewegen met een joystick in VR soms een oncomfortabele of misselijkmakende ervaring kan veroorzaken. Teleportatie zorgt zo voor meer comfort en toegankelijkheid tijdens het spelen.
  
+Link: https://www.youtube.com/watch?v=m38jtJP-4j8

@@ -1,4 +1,4 @@
-# 🌟 Unity Zombie Shooter Games🌟  
+# 🌟 Unity Zombie Shooter Game🌟  
 Voor mijn schoolproject heb ik samen met een teammate een zombie survival shooter game in VR ontwikkeld. We hebben hiervoor gebruikgemaakt van Unity in combinatie met C#.
 
 Om dit project succesvol te kunnen realiseren, heb ik de volgende officiële Unity-cursussen gevolgd:
